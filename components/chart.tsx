@@ -1,3 +1,5 @@
+import dynamic from "next/dynamic";
+
 import {
   AreaChart,
   BarChart3,
